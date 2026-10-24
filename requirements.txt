@@ -1,0 +1,6 @@
+textual>=0.70,<2
+httpx>=0.27,<1
+pydantic>=2.7,<3
+sounddevice>=0.4.6,<1
+soundfile>=0.12,<1
+numpy>=1.26,<3
